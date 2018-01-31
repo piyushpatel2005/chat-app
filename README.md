@@ -11,7 +11,7 @@ It is very simple and elegant to create chat application in Websockets. There ar
 
 ## Test:
 
-`
+```shell
 clone git remote add origin https://github.com/piyushpatel2005/chat-app.git
 
 cd chat-app
@@ -19,6 +19,6 @@ cd chat-app
 npm install 
 
 npm start
-`
+```
 
 Open [http://localhost:3000](http://localhost:3000) in two or more browsers to chat.
